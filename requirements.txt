@@ -1,0 +1,5 @@
+numpy==1.13.3Keras==2.0.8
+opencv
+opencv-python
+keras_vggface
+scipy
